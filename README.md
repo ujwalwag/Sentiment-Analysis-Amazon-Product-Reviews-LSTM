@@ -54,6 +54,16 @@ Run the Jupyter Notebook:
 
 jupyter notebook a2_part1_ujwalwag.ipynb
 
+Using GloVe Pre-trained Embeddings
+
+Download GloVe (e.g., 6B tokens, 100 dimensions):
+
+wget http://nlp.stanford.edu/data/glove.6B.zip
+unzip glove.6B.zip -d embeddings/
+
+
+Common options: glove.6B.50d.txt, glove.6B.100d.txt, glove.6B.200d.txt, glove.6B.300d.txt.
+
 
 Steps inside the notebook:
 
