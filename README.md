@@ -75,4 +75,3 @@ Train and evaluate the baseline LSTM model.
 
 Train and evaluate the improved LSTM model.
 
-Compare performance between baseline and improved models.
